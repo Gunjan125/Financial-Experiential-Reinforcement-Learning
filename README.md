@@ -363,20 +363,5 @@ into one unified system.
 Gunjan Soni
 Computer Science Student | AI/ML Enthusiast | Research Explorer
 
----
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 🙌 Acknowledgements
-
-* Hugging Face
-* Qwen Team
-* Mistral AI
-* Sentence Transformers
-* FAISS by Meta
-* Yahoo Finance
 
